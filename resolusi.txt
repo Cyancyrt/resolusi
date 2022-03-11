@@ -2,3 +2,4 @@ resolusi
 -pro apex
 -pro ngoding
 -pro ygo
+-pro gambar
